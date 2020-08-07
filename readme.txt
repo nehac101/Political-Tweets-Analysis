@@ -19,4 +19,6 @@ https://appen.com/resources/datasets/
 
 
 Notes: The test functions and helper functions for bar plots were made by the 15-110 cmu computer science department. 
+Source: https://www.cs.cmu.edu/~15110/assignments.html
+
 
